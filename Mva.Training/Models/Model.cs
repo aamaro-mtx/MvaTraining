@@ -10,5 +10,6 @@ namespace Mva.Training.Models
         public string Address { get; set; }
         public int Age { get; set; }
         public DateTime BirthDate { get; set; }
+        public int Test { get; set; }
     }
 }
